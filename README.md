@@ -134,19 +134,6 @@ and final response.
 
 ## Selected full-stack work
 
-### NEXUS · Experiment Platform
-
-A cinematic experimentation platform with authenticated workspaces, repeatable
-seeded data, experiment lifecycle management, portfolio analytics, activity
-history, server-side filtering, custom animation, and a scroll-driven Three.js
-story.
-
-`React` · `Tailwind CSS` · `Three.js` · `Framer Motion` · `Express`
-
-[Frontend](https://github.com/SudanBasnet/Experiment-Frontend) ·
-[Backend](https://github.com/SudanBasnet/Experiment-Backend)
-
----
 
 ### Library Management System
 
@@ -209,15 +196,6 @@ search, pagination, charts, responsive feedback, and dashboard reporting.
 - **Operational thinking:** logs, reproducible seed data, environment configuration, deployment checks, documentation, and safe change management.
 - **Continuous improvement:** learn from support patterns and turn repeated problems into clearer processes or better software.
 
-## GitHub signal
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SudanBasnet&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=8F72FF&amp;icon_color=CAFF3D&amp;text_color=8B949E" alt="Sudan Basnet's GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudanBasnet&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;title_color=8F72FF&amp;text_color=8B949E" alt="Sudan Basnet's most-used GitHub languages" />
-</p>
-
-> GitHub language cards describe repository composition, not overall
-> professional proficiency.
 
 ## Education and professional development
 
